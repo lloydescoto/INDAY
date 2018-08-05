@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For uSpeech
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+signal 		KEYWORD1
+syllable	KEYWORD1
+statcollector	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getPhoneme	KEYWORD2
+snr		KEYWORD2
+sample		KEYWORD2
+calibrate	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+#######################################
+# Constants (LITERAL1)
+#######################################
+micPower	LITERAL1
