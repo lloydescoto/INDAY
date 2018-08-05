@@ -1,5 +1,5 @@
 # INDAY
-An Arduino-based wearable device for the blind 
+An Arduino-based wearable device for the Blind. The project serves as an undergraduate thesis of the developers in partial fulfillment of the requirements for the degree of Bachelor of Science in Computer Science at Holy Angel University. 
 
 # Hardware Requirment
 - Arduino Uno
