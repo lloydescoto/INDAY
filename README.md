@@ -1,6 +1,10 @@
 # INDAY
 An Arduino-Based Speech Enable Wearable Device for the Blind. The project serves as an undergraduate thesis of the developers in partial fulfillment of the requirements for the degree of Bachelor of Science in Computer Science at Holy Angel University. 
 
+# Project Dependencies
+- Uspeech 4.x.x (c) Arjo Chakravarty
+- TinyGPS++ 2.1
+
 # Hardware Requirment
 - Arduino Uno
 - MAX9812 Microphone Voice Module
