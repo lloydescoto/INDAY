@@ -11,6 +11,7 @@ An Arduino-Based Speech Enable Wearable Device for the Blind. The project serves
 - ESP8266 Wifi Module
 - NEO-6M GPS Module
 - HC-SR04 Ultrasonic Distance Sensor
+- EMIC2 Text to Speech Module
 
 # Software Requirment
 - Arduino IDE
