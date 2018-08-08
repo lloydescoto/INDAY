@@ -4,6 +4,7 @@ An Arduino-Based Speech Enable Wearable Device for the Blind. The project serves
 # Project Dependencies
 - Uspeech 4.x.x (c) Arjo Chakravarty
 - TinyGPS++ 2.1
+- EMIC2 1.0 (c) Nick Lamprianidis
 
 # Hardware Requirment
 - Arduino Uno
